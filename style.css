@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    margin: 10px 10px;
+    background-color: black;
+    color: white;
+}
+
+.homepage {
+    background-color:burlywood;
+}
+
+ul li {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.recipe-list{
+    list-style:circle;
+}
