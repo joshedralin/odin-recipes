@@ -17,3 +17,16 @@ ul li {
 .recipe-list{
     list-style:circle;
 }
+
+ul a:link {
+    color: darkslategrey;
+}
+
+ul a:visited {
+    color: #6E7F80;
+}
+
+ul a:hover{
+    color: #8B4513; 
+}
+
